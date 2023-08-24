@@ -1,0 +1,16 @@
+.header_logo{
+    height:7rem;
+    background-color:greenyellow;
+    display: flex;
+    justify-content: space-around;
+    /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif */
+    font-family: 'Phudu', cursive;
+}
+.header_text{
+    font-size:2.3rem;
+    color:rgb(93, 90, 90);
+    padding:0.5rem;
+} 
+
+
+
